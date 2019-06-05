@@ -6,3 +6,4 @@
 Each grade folder has a number of chapters, each chapter with a number of exercises, and answers to these in a single file.
 
 ### Texts
+[Grade 6](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_6/text_book)
