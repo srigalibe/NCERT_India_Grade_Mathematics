@@ -3,6 +3,8 @@
 
 *The National Council of Educational Research and Training (NCERT) is an autonomous organisation set up in 1961 by the Government of India to assist and advise the Central and State Governments on policies and programmes for qualitative improvement in school education*.
 
+---
+
 Each grade folder has a number of chapters, each chapter with a number of exercises, and answers to these in a single file.
 
 ### Texts
@@ -12,3 +14,6 @@ Each grade folder has a number of chapters, each chapter with a number of exerci
 4. [Grade 9](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_9/text_book)
 5. [Grade 10](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_10/text_book)
 6. [Grade 11](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_11/text_book)
+7. [Grade 12]((https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_12/text_book)
+    1. [Part 1][Grade 11](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_11/text_book/part_1)
+    2. [Part 2][Grade 11](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_11/text_book/part_2)
