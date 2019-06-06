@@ -19,7 +19,7 @@ Each grade folder has a number of chapters, each chapter with a number of exerci
     2. [Part 2](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_12/text_book/part_2)
 
 
-### Exemplar Problems with Answers
+### Exemplar Problems (for in-depth learning) with Answers
 1. [Grade 6](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_6/exemplar_problems)
 2. [Grade 7](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_7/exemplar_problems)
 3. [Grade 8](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_8/exemplar_problems)
