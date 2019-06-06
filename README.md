@@ -32,4 +32,5 @@ Each grade folder has a number of chapters, each chapter with a number of exerci
 7. [Grade 12](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_12/exemplar_problems)
 
 Be actively involved in the learning process.
+
 ![](https://media.giphy.com/media/GU6nJyegVlZHW/giphy.gif)
