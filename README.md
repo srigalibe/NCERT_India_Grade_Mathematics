@@ -15,5 +15,5 @@ Each grade folder has a number of chapters, each chapter with a number of exerci
 5. [Grade 10](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_10/text_book)
 6. [Grade 11](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_11/text_book)
 7. [Grade 12]((https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_12/text_book)
-    1. [Part 1][Grade 11](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_11/text_book/part_1)
-    2. [Part 2][Grade 11](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_11/text_book/part_2)
+    1. [Part 1](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_12/text_book/part_1)
+    2. [Part 2](https://github.com/srigalibe/NCERT_India_Grade_Mathematics/tree/master/grade_12/text_book/part_2)
